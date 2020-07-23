@@ -1,0 +1,12 @@
+name: AnimalMeat
+version: 1.0
+main: com.adrianwowk.animalmeat.AnimalMeat
+author: Adrian Wowk
+api-version: 1.14
+commands:
+  meat:
+    usage: /<command>
+permissions:
+  am.meat:
+    description: Allows use of /meat command
+    default: op
