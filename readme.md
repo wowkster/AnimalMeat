@@ -25,3 +25,12 @@ This permission allows for the use of the /meat command
 
 ## Config
 The config.yml file has options to drop meat for certain animals
+Example:
+```yml
+drops:
+  wolves: true
+  horses: true
+  cats: true
+  parrot: true
+
+```
